@@ -14,7 +14,7 @@ Forking from the above link was a life saver and can get you mostly up to go. Th
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. https://www.markdownguide.org/basic-syntax/
+Markdown is a lightweight and (the site claims easy-to-use syntax for styling your writing. https://www.markdownguide.org/basic-syntax/
 
     Syntax highlighted code block
 
@@ -38,3 +38,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. https
 |---|---|
 |  row 1 | col 2 |  
 |  row 2 | col 2 |  
+
+### VisualStudio + GitHub + Markdown
+
+So, you can work on the GitHub site but you'll not see the end result until you save because it needs to run through markdown.
+
+So, setup VisualStudio with Git to clone the repo locally and edit with it. Plus you can install [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) for ease of use.
+
+![Image](/images/ScreenShotVScode.jpg)
+
+Edit, save, commit. Done
