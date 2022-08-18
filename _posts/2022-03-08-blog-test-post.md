@@ -47,4 +47,4 @@ So, setup VisualStudio with Git to clone the repo locally and edit with it. Plus
 
 ![Image](/images/ScreenShotVScode.jpg)
 
-Edit, save, commit. Done
+Edit, save, commit. Done.
