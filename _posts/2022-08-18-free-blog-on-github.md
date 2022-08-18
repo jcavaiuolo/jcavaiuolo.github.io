@@ -41,13 +41,13 @@ Markdown is a lightweight and (the site claims easy-to-use syntax for styling yo
 
 This was interesting (to me at least), Markdown doesnt support color text, <span style="color:red">But it supports inline HTML</span>.
 
-Some nice cheatsheet here http://code.ahren.org/markdown-cheatsheet  
+Some nice cheatsheet here [markdown-cheatsheet](http://code.ahren.org/markdown-cheatsheet)
 
 ## VisualStudio + GitHub + Markdown
 
 So, you can work on the GitHub site but you'll not see the end result until you save because it needs to run through markdown.
 
-So, setup VisualStudio with Git to clone the repo locally and edit with it. https://code.visualstudio.com/docs/editor/github 
+So, setup VisualStudio with Git to clone the repo locally and edit with it. [https://code.visualstudio.com/docs/editor/github](https://code.visualstudio.com/docs/editor/github)
 
 Plus you can install [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) for ease of use.
 
@@ -61,7 +61,7 @@ Finally the white page was beggining to bother me. Luckily the original creator 
 
 ...To set it up, this is all you need to do is Open up /_includes/head.html, And add this snippet:
 
-```js
+```javascript
 <!-- dark theme using DarkReader -->
 <script src="//unpkg.com/darkreader@4.9.40/darkreader.js"></script>
 <script type="text/javascript">
