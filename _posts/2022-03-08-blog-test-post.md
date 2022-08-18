@@ -14,11 +14,9 @@ Forking from the above link was a life saver and can get you mostly up to go. Th
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. https://www.markdownguide.org/basic-syntax/
 
-
-<code>
-Syntax highlighted code block
+    Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -32,5 +30,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url=) and ![Image](src=)
-</code>
+[Link](url='https://jcavaiuolo.github.io/2022/03/08/blog-test-post.html') 
+![Image](src='/images/smallimage-logo.webp')
+
+| Plain | Result | 
+|---|---|
+|  row 1 | col 2 |  
+|  row 2 | col 2 |  
