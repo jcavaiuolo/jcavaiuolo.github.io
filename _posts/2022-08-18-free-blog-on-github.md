@@ -30,9 +30,7 @@ Markdown is a lightweight and (the site claims easy-to-use syntax for styling yo
 
 **Bold** and _Italic_ and `Code` text
 
-Link http://code.ahren.org/markdown-cheatsheet
-
-[Embedded Link](https://jcavaiuolo.github.io/2022/03/08/blog-test-post.html)
+[Embedded Link](https://jcavaiuolo.github.io/2022/08/18/free-blog-on-github.md)
 
 ![Image](/images/smallimage-logo.webp)
 
@@ -63,6 +61,7 @@ Finally the white page was beggining to bother me. Luckily on the original creat
 
 ...To set it up, this is all you need to do is Open up /_includes/head.html, And add this snippet:
 
+```js
     <!-- dark theme using DarkReader -->
     <script src="//unpkg.com/darkreader@4.9.40/darkreader.js"></script>
     <script type="text/javascript">
@@ -70,5 +69,5 @@ Finally the white page was beggining to bother me. Luckily on the original creat
     //DarkReader.enable();
     DarkReader.auto( {brightness: 100, contrast: 90, sepia: 10} );
     </script>
-
+```
 
