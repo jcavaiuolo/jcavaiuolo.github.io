@@ -43,3 +43,12 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+.wrapper {
+  max-width:-webkit-calc(800px - (30px * 2));
+  max-width:calc(60% - (30px * 2));
+  margin-right:auto;
+  margin-left:auto;
+  padding-right:30px;
+  padding-left:30px
+ }
