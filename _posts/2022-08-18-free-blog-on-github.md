@@ -4,9 +4,9 @@ So, for the last couple of weeks i've been going around seeing where and hoy I c
 
 Just like that, you can have a repo that works as a blog, and its free. Done, go, build your free static site. It is not as friendly as other offers, Blogger and Wordpress are much more user friendly. But its simple, and that is what i was looking for.
 
-Finally found (and followed) this blog by Chad Baldwin (https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html). Fork >> boom, its up. Done. 
+Finally found (and followed) [this](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html) blog by Chad Baldwin. Short version: Fork >> boom, its up. Done. 
 
-## What i learned in this process.
+## Longer version, what i learned in this process.
 
 Apparently GitHub Pages is powered by [Jekyll](https://jekyllrb.com/) and must admit that I failed miserably trying to setup a local install and configure dependencies.
 
@@ -57,7 +57,7 @@ Edit, save, commit. Done.
 
 ## DarkTheme
 
-Finally the white page was beggining to bother me. Luckily on the original creator of the template explains in his post:
+Finally the white page was beggining to bother me. Luckily the original creator of the template explains in his post about applying dark theme using the DarkReader as a external script:
 
 ...To set it up, this is all you need to do is Open up /_includes/head.html, And add this snippet:
 
@@ -70,4 +70,3 @@ Finally the white page was beggining to bother me. Luckily on the original creat
     DarkReader.auto( {brightness: 100, contrast: 90, sepia: 10} );
     </script>
 ```
-
