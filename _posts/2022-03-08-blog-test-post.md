@@ -31,7 +31,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. https
 **Bold** and _Italic_ and `Code` text
 
 [Link](url='https://jcavaiuolo.github.io/2022/03/08/blog-test-post.html') 
-![Image](src='/images/smallimage-logo.webp')
+![Image](/images/smallimage-logo.webp)
 
 | Plain | Result | 
 |---|---|
