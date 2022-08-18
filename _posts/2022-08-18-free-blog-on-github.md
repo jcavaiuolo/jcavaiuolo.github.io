@@ -62,11 +62,11 @@ Finally the white page was beggining to bother me. Luckily the original creator 
 ...To set it up, this is all you need to do is Open up /_includes/head.html, And add this snippet:
 
 ```js
-    <!-- dark theme using DarkReader -->
-    <script src="//unpkg.com/darkreader@4.9.40/darkreader.js"></script>
-    <script type="text/javascript">
-    DarkReader.setFetchMethod(window.fetch); // Fix to remedy CORS errors in chrome console
-    //DarkReader.enable();
-    DarkReader.auto( {brightness: 100, contrast: 90, sepia: 10} );
-    </script>
+<!-- dark theme using DarkReader -->
+<script src="//unpkg.com/darkreader@4.9.40/darkreader.js"></script>
+<script type="text/javascript">
+DarkReader.setFetchMethod(window.fetch); // Fix to remedy CORS errors in chrome console
+//DarkReader.enable();
+DarkReader.auto( {brightness: 100, contrast: 90, sepia: 10} );
+</script>
 ```
