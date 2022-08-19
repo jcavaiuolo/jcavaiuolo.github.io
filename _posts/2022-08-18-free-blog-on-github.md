@@ -1,14 +1,14 @@
 # Free blog on github?
 
-So, for the last couple of weeks i've been going around seeing where and hoy I could resume blogging, and did not need anything fancy. Between a handful of options GitHub Pages showed up on the search results. 
+So, for the last couple of weeks i've been going around seeing where and how I could resume blogging, and did not need anything fancy. Between a handful of options GitHub Pages showed up on the search results. 
 
-Just like that, you can have a repo that works as a blog, and its free. Done, go, build your free static site. It is not as friendly as other offers, Blogger and Wordpress are much more user friendly. But its simple, and that is what i was looking for.
+Found (and followed) [this](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html) blog by Chad Baldwin. Short version: Fork >> boom, its up. Done. 
 
-Finally found (and followed) [this](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html) blog by Chad Baldwin. Short version: Fork >> boom, its up. Done. 
+Just like that, you can have a repo that works as a blog, and its free. Done, go, build your free static site. It is not as nice as other offers, Blogger and Wordpress are much more user friendly. But its simple, and that is what i was looking for.
 
 ## Longer version, what i learned in this process.
 
-Apparently GitHub Pages is powered by [Jekyll](https://jekyllrb.com/) and must admit that I failed miserably trying to setup a local install and configure dependencies.
+GitHub Pages is powered by [Jekyll](https://jekyllrb.com/) and must admit that I failed miserably trying to setup a local install and configure dependencies.
 
 Forking from the above link was a life saver and can get you mostly up to go. The site looks simple out of the box but theres a couple of things to make it a little less plain.
 
